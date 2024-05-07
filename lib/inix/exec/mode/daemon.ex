@@ -1,7 +1,8 @@
-defmodule Inix.Supervisor do
-  @doc """
-  Launch and monitor system services.
+defmodule Inix.Exec.Mode.Daemon do
+  @moduledoc """
+  Always-on services and their supervisor.
   """
+
   use Supervisor
 
   def start_link(_init_arg) do

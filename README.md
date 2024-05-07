@@ -2,17 +2,11 @@
 
 Init-like system in Elixir
 
-## overview
+## scope?
 
-### on startup
+- mount filesystems
 
-cf. https://www.oreilly.com/library/view/essential-system-administration/0596003439/ch04s01.html
+## notes
 
-- mount local filesystems
-- verify system integrity
-- local network up
-- remote network up
-- system api: db, log, launcher, scheduler
-- service daemons
-
-
+https://ongres.com/blog/automation-to-run-vms-based-on-vanilla-cloud-images-on-firecracker/
+https://community.ops.io/jmarhee/preparing-a-freebsd-cloud-image-with-cloud-init-22lh
