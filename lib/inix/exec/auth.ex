@@ -1,5 +1,5 @@
 defmodule Inix.Exec.Auth do
-  @defmodule """
+  @moduledoc """
   Authentication and authorization functionality.
   """
 end

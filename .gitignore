@@ -24,3 +24,6 @@ inix-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# cargo build dirs
+/priv/drop/target

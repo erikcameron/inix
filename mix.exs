@@ -23,7 +23,7 @@ defmodule Inix.MixProject do
   defp deps do
     [
       {:erlexec, "~> 2.0"},
-      {:maxine, "~> 1.0"},
+      {:logger_syslog_backend, "~> 1.0"},
       {:phoenix_pubsub, "~> 2.0"}
     ]
   end

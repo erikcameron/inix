@@ -1,5 +1,6 @@
 %{
   "erlexec": {:hex, :erlexec, "2.0.6", "b7443121cfb8add8bc25e3db9c1fd79d14613bbc406984264a0bbc62f121f377", [:rebar3], [], "hexpm", "8c4ebc02449f838648d9854d1c4dc7257e57d4ea2098a7e6386348372085ab21"},
+  "logger_syslog_backend": {:hex, :logger_syslog_backend, "1.0.3", "4a094e04a2bf650f56b36701ecd134887f16368a4edf13a5c52f35a089570126", [:mix], [], "hexpm", "b2c3036651fe5496a598df451579e67a8c86acf879dcef1fae8dafb40414928f"},
   "maxine": {:hex, :maxine, "1.1.1", "d6956c993632c3bee4d943035dea056fb02e728d0dcf6a8048e84bef904d5756", [:mix], [{:deep_merge, ">= 1.0.0", [hex: :deep_merge, repo: "hexpm", optional: true]}, {:ecto, ">= 3.0.0", [hex: :ecto, repo: "hexpm", optional: true]}], "hexpm", "1180a71b077c6183400fb037a39f0ad28cedf5afbeb9aa6695f727545b41eac8"},
   "phoenix_pubsub": {:hex, :phoenix_pubsub, "2.1.3", "3168d78ba41835aecad272d5e8cd51aa87a7ac9eb836eabc42f6e57538e3731d", [:mix], [], "hexpm", "bba06bc1dcfd8cb086759f0edc94a8ba2bc8896d5331a1e2c2902bf8e36ee502"},
 }
